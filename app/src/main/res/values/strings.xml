@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="next"><![CDATA[NEXT >>]]></string>
+    <string name="mango">Mango</string>
+    <string name="grapes">Grapes</string>
+    <string name="papaya">Papaya</string>
+    <string name="apple">Apple</string>
+    <string name="what_is_the_capital_of_india">What is the capital of India?</string>
+    <string name="what_is_the_capital_of_india_hihihihihihihihihi" />
+</resources>
